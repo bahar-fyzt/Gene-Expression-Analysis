@@ -3,7 +3,9 @@ This repository contains R scripts for analyzing human gene expression data usin
 
 📌 Overview
 	•	Dataset: Gene expression data from six human tissues and three donors.
+ 
 	•	Goal: Identify differentially expressed genes (DEGs) across tissues.
+ 
 	•	Methods Used:
 	•	Data filtering & normalization (calcNormFactors)
 	•	Multidimensional scaling (MDS) for visualization
