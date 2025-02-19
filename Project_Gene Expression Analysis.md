@@ -41,7 +41,7 @@ We are going to perform the following steps:
 
 ### 3. Common part
 
-### 4. Second part: Track 02
+### 4. Second part: 
 
 # 1. Functions 
 We declare all the functions that we are going to use in this gene expression analysis.
@@ -338,7 +338,7 @@ DE_DOWN have lower fold change, they change more than notDE.
 So, the main difference between DE and notDE is that DE genes (DEGs) have a bigger change in expression (FC) compared to genes that are not DE.
 
 
-# 4. Second Part: Track 02
+# 4. Second Part: 
 We have to compute the average expression across tissues.
 RNAseq libraries have a different sequencing depth for every sample/replicate.
 The first normalization that we perform aims to make the number of reads comparable (normalization per library size).
